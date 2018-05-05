@@ -3,7 +3,7 @@
 管理しているサイトやその他スペースへのリンクがいろいろと。    
   
   
-[kintoneプラグイン](/kintone/plugin)
+[kintone tips ／ kintoneプラグイン](/kintone)
   
   
 [雑多なWebアプリとAndroidアプリの残骸](/webapp)
